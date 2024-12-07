@@ -15,9 +15,9 @@ TECHNOLOGIES USED:
 INSTRUCTIONS:
 * Open the index.html file in any browser.
 * Use the buttons to perform calculations.
-* Click "C" to clear the display.
+* Click "AC" to clear the display.
   
 FILES:
 * index.html: Contains the structure of the calculator.
 * style.css: Contains the styles for the calculator's layout.
-* script.js: Contains the logic for calculator operations.
+* app.js: Contains the logic for calculator operations.
